@@ -20,3 +20,40 @@
 - [Chessboard and Queens](./introductory-problems/chessboard-and-queens.cpp)
 - [Digit Queries](./introductory-problems/digit-queries.cpp)
 - [Grid Paths](./introductory-problems/grid-paths.cpp)
+
+## Sorting and Searching 
+- [Distinct Numbers](./sorting-and-searching/distinct-numbers.cpp)
+- [Apartments](./sorting-and-searching/apartments.cpp)
+- [Ferris Wheel](./sorting-and-searching/ferris-wheel.cpp)
+- [Concert Tickets](./sorting-and-searching/concert-tickets.cpp)
+- [Restaurant Customers](./sorting-and-searching/restaurant-customers.cpp)
+- [Movie Festival](./sorting-and-searching/movie-festival.cpp)
+- [Sum of Two Values](./sorting-and-searching/sum-of-two-values.cpp)
+- [Maximum Subarray Sum](./sorting-and-searching/maximum-subarray-sum.cpp)
+- Stick Lengths
+- Missing Coin Sum
+- Collecting Numbers
+- Collecting Numbers II
+- Playlist
+- Towers
+- Traffic Lights
+- Josephus Problem I
+- Josephus Problem II
+- Nested Ranges Check
+- Nested Ranges Count
+- Room Allocation
+- Factory Machines
+- Tasks and Deadlines
+- Reading Books
+- Sum of Three Values
+- Sum of Four Values
+- Nearest Smaller Values
+- Subarray Sums I
+- Subarray Sums II
+- Subarray Divisibility
+- Subarray Distinct Values
+- Array Division
+- Sliding Window Median
+- Sliding Window Cost
+- Movie Festival II
+- Maximum Subarray Sum II
