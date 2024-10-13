@@ -30,8 +30,8 @@
 - [Movie Festival](./sorting-and-searching/movie-festival.cpp)
 - [Sum of Two Values](./sorting-and-searching/sum-of-two-values.cpp)
 - [Maximum Subarray Sum](./sorting-and-searching/maximum-subarray-sum.cpp)
-- Stick Lengths
-- Missing Coin Sum
+- [Stick Lengths](./sorting-and-searching/stick-lengths.cpp)
+- [Missing Coin Sum](./sorting-and-searching/missing-coin-sum.cpp)
 - Collecting Numbers
 - Collecting Numbers II
 - Playlist
