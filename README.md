@@ -32,7 +32,7 @@
 - [Maximum Subarray Sum](./sorting-and-searching/maximum-subarray-sum.cpp)
 - [Stick Lengths](./sorting-and-searching/stick-lengths.cpp)
 - [Missing Coin Sum](./sorting-and-searching/missing-coin-sum.cpp)
-- Collecting Numbers
+- [Collecting Numbers](./sorting-and-searching/collecting-numbers.cpp)
 - Collecting Numbers II
 - Playlist
 - Towers
