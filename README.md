@@ -35,7 +35,7 @@
 - [Collecting Numbers](./sorting-and-searching/collecting-numbers.cpp)
 - [Collecting Numbers II](./sorting-and-searching/collecting-numbers-ii.cpp)
 - [Playlist](./sorting-and-searching/playlist.cpp)
-- Towers
+- [Towers](./sorting-and-searching/towers.cpp)
 - Traffic Lights
 - Josephus Problem I
 - Josephus Problem II
