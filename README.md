@@ -36,7 +36,7 @@
 - [Collecting Numbers II](./sorting-and-searching/collecting-numbers-ii.cpp)
 - [Playlist](./sorting-and-searching/playlist.cpp)
 - [Towers](./sorting-and-searching/towers.cpp)
-- Traffic Lights
+- [Traffic Lights](./sorting-and-searching/traffic-lights.cpp)
 - Josephus Problem I
 - Josephus Problem II
 - Nested Ranges Check
