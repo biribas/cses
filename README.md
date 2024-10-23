@@ -38,7 +38,7 @@
 - [Towers](./sorting-and-searching/towers.cpp)
 - [Traffic Lights](./sorting-and-searching/traffic-lights.cpp)
 - [Josephus Problem I](./sorting-and-searching/josephus-problem-i.cpp)
-- Josephus Problem II
+- [Josephus Problem II](./sorting-and-searching/josephus-problem-ii.cpp)
 - Nested Ranges Check
 - Nested Ranges Count
 - Room Allocation
