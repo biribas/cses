@@ -39,7 +39,7 @@
 - [Traffic Lights](./sorting-and-searching/traffic-lights.cpp)
 - [Josephus Problem I](./sorting-and-searching/josephus-problem-i.cpp)
 - [Josephus Problem II](./sorting-and-searching/josephus-problem-ii.cpp)
-- Nested Ranges Check
+- [Nested Ranges Check](./sorting-and-searching/nested-ranges-check.cpp)
 - Nested Ranges Count
 - Room Allocation
 - Factory Machines
