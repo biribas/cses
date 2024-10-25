@@ -41,7 +41,7 @@
 - [Josephus Problem II](./sorting-and-searching/josephus-problem-ii.cpp)
 - [Nested Ranges Check](./sorting-and-searching/nested-ranges-check.cpp)
 - [Nested Ranges Count](./sorting-and-searching/nested-ranges-count.cpp)
-- Room Allocation
+- [Room Allocation](./sorting-and-searching/room-allocation.cpp)
 - Factory Machines
 - Tasks and Deadlines
 - Reading Books
