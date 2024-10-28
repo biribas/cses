@@ -42,7 +42,7 @@
 - [Nested Ranges Check](./sorting-and-searching/nested-ranges-check.cpp)
 - [Nested Ranges Count](./sorting-and-searching/nested-ranges-count.cpp)
 - [Room Allocation](./sorting-and-searching/room-allocation.cpp)
-- Factory Machines
+- [Factory Machines](./sorting-and-searching/factory-machines.cpp)
 - Tasks and Deadlines
 - Reading Books
 - Sum of Three Values
