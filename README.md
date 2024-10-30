@@ -44,7 +44,7 @@
 - [Room Allocation](./sorting-and-searching/room-allocation.cpp)
 - [Factory Machines](./sorting-and-searching/factory-machines.cpp)
 - [Tasks and Deadlines](./sorting-and-searching/tasks-and-deadlines.cpp)
-- Reading Books
+- [Reading Books](./sorting-and-searching/reading-books.cpp)
 - Sum of Three Values
 - Sum of Four Values
 - Nearest Smaller Values
