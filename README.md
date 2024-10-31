@@ -45,7 +45,7 @@
 - [Factory Machines](./sorting-and-searching/factory-machines.cpp)
 - [Tasks and Deadlines](./sorting-and-searching/tasks-and-deadlines.cpp)
 - [Reading Books](./sorting-and-searching/reading-books.cpp)
-- Sum of Three Values
+- [Sum of Three Values](./sorting-and-searching/sum-of-three-values.cpp)
 - Sum of Four Values
 - Nearest Smaller Values
 - Subarray Sums I
