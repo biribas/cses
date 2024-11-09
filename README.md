@@ -47,7 +47,7 @@
 - [Reading Books](./sorting-and-searching/reading-books.cpp)
 - [Sum of Three Values](./sorting-and-searching/sum-of-three-values.cpp)
 - [Sum of Four Values](./sorting-and-searching/sum-of-four-values.cpp)
-- Nearest Smaller Values
+- [Nearest Smaller Values](./sorting-and-searching/nearest-smaller-values.cpp)
 - Subarray Sums I
 - Subarray Sums II
 - Subarray Divisibility
