@@ -21,7 +21,7 @@
 - [Digit Queries](./introductory-problems/digit-queries.cpp)
 - [Grid Paths](./introductory-problems/grid-paths.cpp)
 
-## Sorting and Searching 
+## Sorting and Searching
 - [Distinct Numbers](./sorting-and-searching/distinct-numbers.cpp)
 - [Apartments](./sorting-and-searching/apartments.cpp)
 - [Ferris Wheel](./sorting-and-searching/ferris-wheel.cpp)
@@ -57,3 +57,24 @@
 - Sliding Window Cost
 - Movie Festival II
 - Maximum Subarray Sum II
+
+## Dynamic Programming
+- Dice Combinations
+- Minimizing Coins
+- Coin Combinations I
+- Coin Combinations II
+- Removing Digits
+- Grid Paths
+- Book Shop
+- Array Description
+- Counting Towers
+- Edit Distance
+- Rectangle Cutting
+- Money Sums
+- Removal Game
+- Two Sets II
+- Increasing Subsequence
+- Projects
+- Elevator Rides
+- Counting Tilings
+- Counting Numbers
