@@ -59,7 +59,7 @@
 - Maximum Subarray Sum II
 
 ## Dynamic Programming
-- Dice Combinations
+- [Dice Combinations](./dynamic-programming/dice-combinations.cpp)
 - Minimizing Coins
 - Coin Combinations I
 - Coin Combinations II
