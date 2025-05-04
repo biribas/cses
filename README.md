@@ -60,7 +60,7 @@
 
 ## Dynamic Programming
 - [Dice Combinations](./dynamic-programming/dice-combinations.cpp)
-- Minimizing Coins
+- [Minimizing Coins](./dynamic-programming/minimizing-coins.cpp)
 - Coin Combinations I
 - Coin Combinations II
 - Removing Digits
