@@ -65,7 +65,7 @@
 - [Coin Combinations II](./dynamic-programming/coin-combinations-ii.cpp)
 - [Removing Digits](./dynamic-programming/removing-digits.cpp)
 - [Grid Paths](./dynamic-programming/grid-paths.cpp)
-- Book Shop
+- [Book Shop](./dynamic-programming/book-shop.cpp)
 - Array Description
 - Counting Towers
 - Edit Distance
