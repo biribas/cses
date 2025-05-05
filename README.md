@@ -63,7 +63,7 @@
 - [Minimizing Coins](./dynamic-programming/minimizing-coins.cpp)
 - [Coin Combinations I](./dynamic-programming/coin-combinations-i.cpp)
 - [Coin Combinations II](./dynamic-programming/coin-combinations-ii.cpp)
-- Removing Digits
+- [Removing Digits](./dynamic-programming/removing-digits.cpp)
 - Grid Paths
 - Book Shop
 - Array Description
