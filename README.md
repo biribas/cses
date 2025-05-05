@@ -66,7 +66,7 @@
 - [Removing Digits](./dynamic-programming/removing-digits.cpp)
 - [Grid Paths](./dynamic-programming/grid-paths.cpp)
 - [Book Shop](./dynamic-programming/book-shop.cpp)
-- Array Description
+- [Array Description](./dynamic-programming/array-description.cpp)
 - Counting Towers
 - Edit Distance
 - Rectangle Cutting
