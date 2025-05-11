@@ -67,7 +67,7 @@
 - [Grid Paths](./dynamic-programming/grid-paths.cpp)
 - [Book Shop](./dynamic-programming/book-shop.cpp)
 - [Array Description](./dynamic-programming/array-description.cpp)
-- Counting Towers
+- [Counting Towers](./dynamic-programming/counting-towers.cpp)
 - Edit Distance
 - Rectangle Cutting
 - Money Sums
