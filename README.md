@@ -69,12 +69,16 @@
 - [Array Description](./dynamic-programming/array-description.cpp)
 - [Counting Towers](./dynamic-programming/counting-towers.cpp)
 - [Edit Distance](./dynamic-programming/edit-distance.cpp)
+- Longest Common Subsequence
 - Rectangle Cutting
 - Money Sums
+- Minimal Grid Path
 - Removal Game
 - Two Sets II
+- Mountain Range
 - Increasing Subsequence
 - Projects
 - Elevator Rides
 - Counting Tilings
 - Counting Numbers
+- Increasing Subsequence II
