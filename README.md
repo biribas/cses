@@ -18,7 +18,12 @@
 - [Creating Strings](./introductory-problems/creating-strings.cpp)
 - [Apple Division](./introductory-problems/apple-division.cpp)
 - [Chessboard and Queens](./introductory-problems/chessboard-and-queens.cpp)
+- Raab Game I
+- Mex Grid Construction
+- Knight Moves Grid
+- Grid Coloring I
 - [Digit Queries](./introductory-problems/digit-queries.cpp)
+- String Reorder
 - [Grid Paths](./introductory-problems/grid-paths.cpp)
 
 ## Sorting and Searching
