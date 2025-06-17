@@ -42,6 +42,8 @@
 - [Playlist](./sorting-and-searching/playlist.cpp)
 - [Towers](./sorting-and-searching/towers.cpp)
 - [Traffic Lights](./sorting-and-searching/traffic-lights.cpp)
+- Distinct Values Subarrays
+- Distinct Values Subsequences
 - [Josephus Problem I](./sorting-and-searching/josephus-problem-i.cpp)
 - [Josephus Problem II](./sorting-and-searching/josephus-problem-ii.cpp)
 - [Nested Ranges Check](./sorting-and-searching/nested-ranges-check.cpp)
@@ -56,10 +58,8 @@
 - [Subarray Sums I](./sorting-and-searching/subarray-sums-i.cpp)
 - Subarray Sums II
 - Subarray Divisibility
-- Subarray Distinct Values
+- Distinct Values Subarray II
 - Array Division
-- Sliding Window Median
-- Sliding Window Cost
 - Movie Festival II
 - Maximum Subarray Sum II
 
