@@ -75,7 +75,7 @@
 - [Counting Towers](./dynamic-programming/counting-towers.cpp)
 - [Edit Distance](./dynamic-programming/edit-distance.cpp)
 - [Longest Common Subsequence](./dynamic-programming/longest-common-subsequence.cpp)
-- Rectangle Cutting
+- [Rectangle Cutting](./dynamic-programming/rectangle-cutting.cpp)
 - Money Sums
 - Minimal Grid Path
 - Removal Game
