@@ -76,7 +76,7 @@
 - [Edit Distance](./dynamic-programming/edit-distance.cpp)
 - [Longest Common Subsequence](./dynamic-programming/longest-common-subsequence.cpp)
 - [Rectangle Cutting](./dynamic-programming/rectangle-cutting.cpp)
-- Minimal Grid Path
+- [Minimal Grid Path](./dynamic-programming/minimal-grid-path.cpp)
 - Money Sums
 - Removal Game
 - Two Sets II
