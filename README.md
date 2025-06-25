@@ -77,7 +77,7 @@
 - [Longest Common Subsequence](./dynamic-programming/longest-common-subsequence.cpp)
 - [Rectangle Cutting](./dynamic-programming/rectangle-cutting.cpp)
 - [Minimal Grid Path](./dynamic-programming/minimal-grid-path.cpp)
-- Money Sums
+- [Money Sums](./dynamic-programming/money-sums.cpp)
 - Removal Game
 - Two Sets II
 - Mountain Range
