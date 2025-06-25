@@ -78,7 +78,7 @@
 - [Rectangle Cutting](./dynamic-programming/rectangle-cutting.cpp)
 - [Minimal Grid Path](./dynamic-programming/minimal-grid-path.cpp)
 - [Money Sums](./dynamic-programming/money-sums.cpp)
-- Removal Game
+- [Removal Game](./dynamic-programming/removal-game.cpp)
 - Two Sets II
 - Mountain Range
 - Increasing Subsequence
